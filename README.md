@@ -45,7 +45,7 @@
 ```url
 https://valorantapiunofficial.herokuapp.com/
 ```
-* Returns example60
+* Returns example
 ```json
 {
   "status": "success", 
