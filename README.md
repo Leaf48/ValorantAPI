@@ -45,7 +45,7 @@
 ```url
 https://valorantapiunofficial.herokuapp.com/
 ```
-* Returns example
+* Returns example60
 ```json
 {
   "status": "success", 
@@ -72,6 +72,12 @@ https://valorantapiunofficial.herokuapp.com/valorant/
 | tag  | string  | User's tag(Ex. 1234)  | yes |
 | type  | string  | *profile* | yes  |
 
+* Limit
+
+| Cache | Request Limit |
+| ----- | ----- |
+| 600 secs | 60 / minutes |
+
 </br>
 
 - [ ] Get Metrics(How many times has API been used.)
@@ -86,6 +92,12 @@ https://valorantapiunofficial.herokuapp.com/metrics/
   "total": 2
 }
 ```
+* Limit
+
+| Cache | Request Limit |
+| ----- | ----- |
+| 60 secs | 10 / minutes |
+
 ### Example
 - [ ] Get Someone's Status </br>
 ```url
