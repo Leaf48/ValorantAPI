@@ -2,8 +2,8 @@
 
 <!-- TOP -->
 
-[![API](https://img.shields.io/website?down_color=red&down_message=Not%20Working&label=API&style=for-the-badge&up_message=Working&url=https%3A%2F%2Fvalorantapiunofficial.herokuapp.com%2F)](https://valorantapiunofficial.herokuapp.com/)
-[![Metrics](https://img.shields.io/website?down_color=red&down_message=Not%20Working&label=Metrics&style=for-the-badge&up_message=Working&url=https%3A%2F%2Fvalorantapiunofficial.herokuapp.com%2Fmetrics)](https://valorantapiunofficial.herokuapp.com/metrics)
+[![API](https://img.shields.io/website?down_color=red&down_message=NOT%20WORKING&label=API&logo=%5C&style=for-the-badge&up_message=WORKING&url=http%3A%2F%2Fapi.playvalorant.me%2F)](http://api.playvalorant.me/)
+[![Metrics](https://img.shields.io/website?down_color=red&down_message=NOT%20WORKING&label=metrics&logo=%5C&style=for-the-badge&up_message=WORKING&url=http%3A%2F%2Fapi.playvalorant.me%2Fmetrics)](http://api.playvalorant.me/metrics)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -43,7 +43,7 @@
 ## Getting Started
 - [ ] Base Endpoint
 ```url
-https://valorantapiunofficial.herokuapp.com/
+http://api.playvalorant.me/
 ```
 * Returns example
 ```json
@@ -63,7 +63,7 @@ https://valorantapiunofficial.herokuapp.com/
 ### Parameter
 - [ ] Get Player's Status </br>
 ```url
-https://valorantapiunofficial.herokuapp.com/valorant/
+http://api.playvalorant.me/valorant/
 ```
 
 | Name | Type | Desc | Required |
@@ -82,7 +82,7 @@ https://valorantapiunofficial.herokuapp.com/valorant/
 
 - [ ] Get Metrics(How many times has API been used.)
 ```url
-https://valorantapiunofficial.herokuapp.com/metrics/
+http://api.playvalorant.me/metrics/
 ```
 * Return
 ```json
@@ -101,5 +101,5 @@ https://valorantapiunofficial.herokuapp.com/metrics/
 ### Example
 - [ ] Get Someone's Status </br>
 ```url
-https://valorantapiunofficial.herokuapp.com/valorant?username=xxxxxxxx&tag=xxxxxx&type=profile
+http://api.playvalorant.me/valorant?username=xxxxxxxx&tag=xxxxxx&type=profile
 ```
