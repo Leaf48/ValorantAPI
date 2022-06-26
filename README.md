@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <!-- TOP -->
-
+[![UPTIME](https://img.shields.io/uptimerobot/ratio/m792088765-a5fdb5bf8af30ed18c55279e?style=for-the-badge)](http://api.playvalorant.me/)
 [![API](https://img.shields.io/website?down_color=red&down_message=NOT%20WORKING&label=API&logo=%5C&style=for-the-badge&up_message=WORKING&url=http%3A%2F%2Fapi.playvalorant.me%2F)](http://api.playvalorant.me/)
 [![Metrics](https://img.shields.io/website?down_color=red&down_message=NOT%20WORKING&label=metrics&logo=%5C&style=for-the-badge&up_message=WORKING&url=http%3A%2F%2Fapi.playvalorant.me%2Fmetrics)](http://api.playvalorant.me/metrics)
 
@@ -70,7 +70,7 @@ http://api.playvalorant.me/valorant/
 | ------------- | ------------- | ------------- | ------------- |
 | username  | string  | Username(Ex. Example)  | yes  |
 | tag  | string  | User's tag(Ex. 1234)  | yes |
-| type  | string  | *profile* | yes  |
+| type(Beta)  | string  | *profile* | yes  |
 
 * Limit
 
