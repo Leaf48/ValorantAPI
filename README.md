@@ -5,6 +5,8 @@
 [![API](https://img.shields.io/website?down_color=red&down_message=NOT%20WORKING&label=API&logo=%5C&style=for-the-badge&up_message=WORKING&url=http%3A%2F%2Fapi.playvalorant.me%2F)](http://api.playvalorant.me/)
 [![Metrics](https://img.shields.io/website?down_color=red&down_message=NOT%20WORKING&label=metrics&logo=%5C&style=for-the-badge&up_message=WORKING&url=http%3A%2F%2Fapi.playvalorant.me%2Fmetrics)](http://api.playvalorant.me/metrics)
 
+[![COMMIT](https://img.shields.io/github/last-commit/leaf48/ValorantAPI?color=blue&style=for-the-badge)](http://api.playvalorant.me/metrics)
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
