@@ -7,6 +7,7 @@
 
 [![COMMIT](https://img.shields.io/github/last-commit/leaf48/ValorantAPI?color=blue&style=for-the-badge)](http://api.playvalorant.me/metrics)
 
+<h1>Currently, This API is not working due to CAPTCHA.</h1>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
